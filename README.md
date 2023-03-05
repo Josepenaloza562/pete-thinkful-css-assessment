@@ -1,1 +1,1 @@
-# pete-thinkful-css-assessment
+# starter-pete-thinkful-portfolio
